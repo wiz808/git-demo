@@ -8,10 +8,8 @@
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1,先去到server文件下运行npm i 在npm start
+2, 去vue_store文件下运行npm i 在运行npm run serve
 
 #### 使用说明
 
